@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 4-10"
 date:   2019-11-10 19:45:31 +0530
-categories: 2019
+categories: ["2019"]
 author: "Nelson Gonçalves"
 ---
 
