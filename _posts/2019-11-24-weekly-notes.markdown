@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 18-24"
+title:  "Week 18-24 november 2019"
 date:   2019-11-24 08:43:59
 categories: ["11-2019"]
 author: "Nelson Gonçalves"
