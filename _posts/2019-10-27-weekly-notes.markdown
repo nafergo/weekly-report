@@ -2,7 +2,8 @@
 layout: post
 title:  "Week 21-27"
 date:   2019-10-27 19:45:31 +0530
-categories: jekyll update
+categories: ["2019"]
+author: "Nelson Gonçalves"
 ---
 
 
