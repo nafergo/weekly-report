@@ -2,7 +2,7 @@
 layout: post
 title:  "Design Stories : Gravity"
 date:   2016-03-30 19:45:31 +0530
-categories: ["design", "science", "life" "2019"]
+categories: ["2019"]
 author: "Hemang Kumar"
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit.
