@@ -2,8 +2,8 @@
 layout: post
 title:  "Week 18-24"
 date:   2019-11-24 08:43:59
-author: Nelson Gonçalves
-categories: "11-2019"
+categories: ["2019"]
+author: "Nelson Gonçalves"
 ---
 
 * 19/11 Tropy accounts
