@@ -9,9 +9,9 @@ Soon
 aa
 
      
-            {% include icon-github.html username=site.github_username %}
+https://github.com/nafergo
 
-            {% include icon-twitter.html username=site.twitter_username %}
+https://twitter.com/nafergo
 
       
 Powered By <a href="http://github.com/hemangsk/Gravity">Gravity</a>
