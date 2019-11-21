@@ -27,3 +27,12 @@ aa
       <div class="footer-col footer-col-3 site-description">
         <p>{{ site.description }}</p>
       </div>
+      
+            <div class="footer-col footer-col-1">
+        <ul class="contact-list footer-content">
+          <li>Powered By <a href="http://github.com/hemangsk/Gravity">Gravity</a></li>
+          <li>Made with <i class="fa fa-heart"></i> on <a href="http://jekyllrb.com"><span style="color:black">{ { Jekyll } }</a></span></li>
+
+
+        </ul>
+      </div>
