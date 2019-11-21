@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 16-22"
 date:   2019-09-22 19:45:31 +0530
-categories: 11-2019
+categories: ["09-2019"]
 author: "Nelson Gonçalves"
 ---
 
