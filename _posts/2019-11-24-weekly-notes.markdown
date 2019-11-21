@@ -2,7 +2,7 @@
 layout: post
 title:  "Week 18-24"
 date:   2019-11-24 08:43:59
-categories: ["2019"]
+categories: ["11-2019"]
 author: "Nelson Gonçalves"
 ---
 
