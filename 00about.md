@@ -1,7 +1,7 @@
 ---
 layout: page
 title : About
-permalink: /0about/
+permalink: /00about/
 ---
 
 Soon
