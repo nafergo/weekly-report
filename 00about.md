@@ -5,6 +5,9 @@ permalink: /00about/
 ---
 
 Soon
+
+aa
+
       <div class="footer-col footer-col-2 footer-content">
         <ul class="social-media-list">
           {% if site.github_username %}
