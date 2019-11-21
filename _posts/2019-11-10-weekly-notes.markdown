@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Week 4-10"
+date:   2019-11-10 19:45:31 +0530
+categories: 2019
+author: "Nelson Gonçalves"
+---
+
+
+ * 6/11 Zotero presentation
+ * 6/11 Full afternoon working on multiple projects: asana, training, photogrammetry, etc.
+
