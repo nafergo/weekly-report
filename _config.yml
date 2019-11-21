@@ -8,7 +8,7 @@
 # Site settings
 title: PAV weekly report
 email: nafergo@gmail.com
-description: The Liberal Jekyll Theme
+description: "nafergo's weekly report for PAV"
 baseurl: "/weekly-report" # the subpath of your site, e.g. /blog
 url: "https://nafergo.github.io" # the base hostname & protocol for your site
 twitter_username: nafergo
