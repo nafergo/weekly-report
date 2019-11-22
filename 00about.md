@@ -8,8 +8,8 @@ Soon
 
 aa
 
-[//]: # (https://github.com/nafergo)
-[//]: # (https://twitter.com/nafergo)
+[//]: # (https://github.com/nafergo   https://twitter.com/nafergo)
+
 
 
 
