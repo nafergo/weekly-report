@@ -7,11 +7,12 @@ permalink: /00about/
 Soon
 
 aa
-<!--
-     
-https://github.com/nafergo
 
-https://twitter.com/nafergo
+[//]: # (https://github.com/nafergo)
+     [//]: # (https://twitter.com/nafergo)
+
+
+
 
       
 Powered By <a href="http://github.com/hemangsk/Gravity">Gravity</a>
