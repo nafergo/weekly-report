@@ -6,7 +6,9 @@ categories: ["11-2019"]
 author: "Nelson Gonçalves"
 ---
 
-* 19/11 Tropy accounts
-* 20/11 Tropy presentation
+* 19/11 Tropy and Transifex accounts
+* 20/11 Tropy demo for LB
 * 20/11 Full afternoon working on multiple projects: training, photogrammetry, etc.
 * 21/11 Set up this weekly log 
+* 21/11 Started Tropy translation
+* 22/11 Tropy translation
