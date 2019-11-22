@@ -8,7 +8,8 @@ author: "Nelson Gonçalves"
 
 
 
-* 24/11 Full afternoon meeting with LB: Asana, Zotero and other project issues
+* 24/11 Full afternoon meeting with LB planning and designing lab and projects
+* 24/11 Present Asana and Zotero
 * 27/11 Working lunch with RB about drones and opportunities-ideas
 
 
