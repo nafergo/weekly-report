@@ -12,3 +12,5 @@ author: "Nelson Gonçalves"
 * 21/11 Set up this weekly log 
 * 21/11 Started Tropy translation
 * 22/11 Tropy translation
+* 24/11 Finished 1st full version of Tropy translation
+* 24/11 Accounts creation: github, zotero, sketchfab, openstreetmap, Finished 1st full version of Tropy translation
