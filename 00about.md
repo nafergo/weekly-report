@@ -4,9 +4,9 @@ title : About
 permalink: /00about/
 ---
 
-Soon
+This is my weekly log or report of my work for PAV.
 
-aa
+
 
 [//]: # (https://github.com/nafergo   https://twitter.com/nafergo)
 
