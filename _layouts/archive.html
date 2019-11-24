@@ -20,10 +20,11 @@ layout: page
   <a class='postLink' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
   </div>
   <div class="postExt">
-    {{post.excerpt}}
+    {{post.content | truncatewords:20}}
   </div>
 </div>
 {% endif %}
 {% endfor %}
 
 {% endfor %}
+  
