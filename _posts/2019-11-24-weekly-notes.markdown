@@ -11,7 +11,7 @@ author: "Nelson Gonçalves"
 * 20/11 Full afternoon working on multiple projects: training, photogrammetry, etc.
 * 21/11 Set up this weekly log 
 * 21/11 Started Tropy translation
-* 22/11 Tropy translation
+* 22/11 Continued Tropy translation
 * 22/11 Hardware research
-* 24/11 Finished 1st full version of Tropy translation
-* 24/11 Accounts creation: github, zotero, sketchfab, openstreetmap, Finished 1st full version of Tropy translation
+* 24/11 Finished 1st full version of Tropy translation: interface locale and DC core and terms.
+* 24/11 Accounts creation: gmail, github, zotero, sketchfab, openstreetmap.
