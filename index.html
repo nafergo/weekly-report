@@ -17,7 +17,9 @@ layout: default
     <a class='postLink' href="{{site.url}}{{site.baseurl}}{{post.url}}">{{post.title}}</a>
     </div>
     <div class="postExt">
-   {{ post.content | truncatewords: 15, ""}}<a class="postLink" href="{{site.url}}{{site.baseurl}}{{post.url}}">Read more</a>
+   {{ post.content | truncatewords: 15, " (...)"}}
+      <br>
+      <a  style="float:right" class="postLink" href="{{site.url}}{{site.baseurl}}{{post.url}}">Read more</a>
             
     </div>
   </div>
