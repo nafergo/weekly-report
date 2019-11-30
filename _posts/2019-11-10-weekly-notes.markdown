@@ -7,6 +7,6 @@ author: "Nelson Gonçalves"
 ---
 
 
- * 6/11 Zotero presentation and planning future use
- * 6/11 Full afternoon working on multiple projects: asana, training, photogrammetry, etc.
+ * Zotero presentation and planning future use
+ * 6/11 Full afternoon working with LB on multiple projects: asana, training, photogrammetry, etc.
 
