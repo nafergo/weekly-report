@@ -8,5 +8,5 @@ author: "Nelson Gonçalves"
 
 
 
-* 13/11 Working on submission to CIM Viseu project
+* 13/11 Working with LB on submission to CIM Viseu project
 * 14/11 Meeting with VA (ESTGV): networking and planning 
