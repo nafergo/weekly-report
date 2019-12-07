@@ -7,4 +7,7 @@ author: "Nelson Gonçalves"
 ---
 
 * meeting va
+* collect data from Sipa, endovelico, etc. 
+* tested GPS logger
+* 
  
