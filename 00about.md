@@ -4,11 +4,10 @@ title : About
 permalink: /00about/
 ---
 
-This is my weekly log or report of my work for PAV.
+This is <a href="https://nafergo.github.io/">my</a> weekly log or work report for PAV.
 
 
 
-[//]: # (https://github.com/nafergo   https://twitter.com/nafergo)
 
 
 
