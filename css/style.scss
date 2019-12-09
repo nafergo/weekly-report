@@ -166,10 +166,11 @@ a {
     }
     &.postLink{
       color: black !important;
-      background-color: blue;
+      background-color: #ecf0f1;
       &:hover {
 
           border-bottom: 1px dotted black ;
+          background-color: #bdc3c7;          
       }
 
       &:visited {
