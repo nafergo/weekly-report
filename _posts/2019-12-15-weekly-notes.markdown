@@ -6,4 +6,4 @@ categories: ["12-2019"]
 author: "Nelson Gonçalves"
 ---
 
-* 
+* reported few errors (location and photos) to google maps
