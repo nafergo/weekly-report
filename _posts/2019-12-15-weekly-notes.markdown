@@ -7,3 +7,7 @@ author: "Nelson Gonçalves"
 ---
 
 * reported few errors (location and photos) to google maps
+* Worked on data from SIPA (formatting, organizing) and CMVGIS
+* Reorganized, clean up, Asana
+* Description and avatar for online accounts
+* Started Pro account process
