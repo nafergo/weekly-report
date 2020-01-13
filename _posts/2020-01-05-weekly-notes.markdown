@@ -7,5 +7,6 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* 
+* I was sick most of the time...
+* Holidays
 
