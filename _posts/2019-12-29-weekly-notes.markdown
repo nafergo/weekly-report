@@ -7,5 +7,7 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* 
+* Meeting with LB for planning
+* Some format and cleaning work for heritage db
+* Pav-spots proof of concept
 
