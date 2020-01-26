@@ -8,4 +8,5 @@ published: true
 ---
 
 * Planning the calendar and deadlines for the year
+* Meeting with LB for administrative issues
 
