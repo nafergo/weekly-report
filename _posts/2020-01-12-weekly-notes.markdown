@@ -10,3 +10,4 @@ published: true
 * Started PEDRA project. First compiles and testing, getting familiar with the code and dev env
 * Info and requirements, planning for 6 Workshops
 * GPS and drone testing
+* Wrote a project brief for ESTGV students (prospective interns) 
