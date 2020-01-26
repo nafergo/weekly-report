@@ -15,4 +15,5 @@ published: true
 * Created a protocol for Meshroom tests
 * Printed several scales
 * Scheduled interview with possible interns
+* Added pagination to this log
 
