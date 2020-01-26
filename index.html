@@ -18,7 +18,8 @@ layout: default
     </div>
     <div class="postExt">
    {{ post.content | truncatewords: 15, " (...)"}}          
-      
+      </div>
+    
   {% endfor %}
   {% if paginator.total_pages > 1 %}
     <nav class="pagination">
