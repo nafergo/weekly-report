@@ -7,5 +7,7 @@ author: "Nelson Gonçalves"
 published: false
 ---
 
-* 
+* interview
+* plan for db
+* print scaled
 
