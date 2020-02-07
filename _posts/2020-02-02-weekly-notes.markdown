@@ -7,7 +7,9 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* interview
+* intern interview
 * plan for db
-* print scaled
+* print scales
+* Prepared few questions related to InP
+* Thesaurus investigation
 
