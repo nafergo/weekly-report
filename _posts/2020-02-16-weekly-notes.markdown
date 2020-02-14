@@ -9,4 +9,4 @@ published: false
 
 * Meeting with LB, 2 interns and ESTGV teacher
 * Meeting with APM student and LB: design, initial thoughts
-* Projects workflow flowchart design for future presentations and reference
+* Projects flowchart design for future workflow presentations and reference
