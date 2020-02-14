@@ -7,5 +7,6 @@ author: "Nelson Gonçalves"
 published: false
 ---
 
-* 
+* Meeting with LB, 2 interns and ESTGV teacher
+* Meeting with APM student and LB: design, initial thoughts
 
