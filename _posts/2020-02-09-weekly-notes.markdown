@@ -7,5 +7,5 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* 2 intern interviews
+* 2 interviews with future interns
 
