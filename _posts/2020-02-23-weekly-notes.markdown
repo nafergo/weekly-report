@@ -11,3 +11,4 @@ published: true
 * Continued to work on the flowcharts for nerdlab projects
 * made some contacts for nerdlab meetings
 * Continued to work on the database
+* administrative issues: official documents, replies, etc.
