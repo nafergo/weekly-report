@@ -11,3 +11,4 @@ published: true
 * Meeting with APM student and LB: design, initial thoughts
 * Projects flowchart design for future workflow presentations and reference
 * Presented Carlos to LB, started Mamaltar VR
+* Visited Repilau with LB for some damage control
