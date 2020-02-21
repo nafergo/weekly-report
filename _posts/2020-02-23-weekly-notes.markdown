@@ -8,6 +8,6 @@ published: true
 ---
 
 * Started using slack, github, asana and and sketchfab for nerd lab and interns
-* Designed workflows for nerdlab
+* Continued to work on the flowcharts for nerdlab projects
 * made some contacts for nerdlab meetings
-
+* Continued to work on the database
