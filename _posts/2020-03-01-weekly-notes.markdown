@@ -10,4 +10,5 @@ published: true
 * Most of the week in Athens
 * 360 testing
 * First NERD Lab meeting
+* Added a couple of new slack members
 
