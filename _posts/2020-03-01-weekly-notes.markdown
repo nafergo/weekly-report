@@ -7,5 +7,7 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* 
+* Most of the week in Athens
+* 360 testing
+* First NERD Lab meeting
 
