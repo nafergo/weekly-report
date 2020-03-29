@@ -8,4 +8,5 @@ published: true
 ---
 
 * Nerdlab @ ESEV (1st year)
+* Nerdlab website dev
 * Corona virus arrived!
