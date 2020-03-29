@@ -7,5 +7,8 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* 
+* work on site
+* ICT setup and support (PC setups, software install, Slack)
+* Zotero setup and quick training
+* 360 photo shoots
 
