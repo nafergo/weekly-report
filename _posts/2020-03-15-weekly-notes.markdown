@@ -8,4 +8,4 @@ published: true
 ---
 
 * Nerdlab @ ESEV (1st year)
-
+* Corona virus arrived!
