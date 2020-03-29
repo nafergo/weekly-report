@@ -4,7 +4,7 @@ title:  "Week 16 march - 22 march 2020"
 date:   2020-03-22 08:43:59
 categories: ["03-2020"]
 author: "Nelson Gonçalves"
-published: false
+published: true
 ---
 
 * 
