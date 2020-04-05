@@ -12,4 +12,4 @@ published: true
 * Photogrammetry setup at the museum
 * collected photos for 3d 
 * collected photos for camera mapping
-
+* 3 april - state of emergency
