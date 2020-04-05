@@ -11,3 +11,4 @@ published: true
 * Nerdlab website dev
 * intern supervising
 * Corona virus arrived!
+* 12 march - classes go online
