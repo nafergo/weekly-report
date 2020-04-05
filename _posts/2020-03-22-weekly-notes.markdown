@@ -13,3 +13,4 @@ published: true
 * 360 photo shoots
 * 3 tiny planets for NIC
 * 2 360º photos for NIC
+* 18 march - state of emergency
