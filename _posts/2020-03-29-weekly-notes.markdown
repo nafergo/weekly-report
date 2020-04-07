@@ -11,4 +11,4 @@ published: true
 * 3x360 visits prototype working online
 * Nerdlab zoom session
 * hdr experiments
-
+* software support
