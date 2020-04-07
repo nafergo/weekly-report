@@ -9,6 +9,7 @@ published: true
 
 * NERDLAB website
 * Continue to work on 360º tours
+* sofware support
 * Photogrammetry setup at the museum
 * collected photos for 3d 
 * collected photos for camera mapping
