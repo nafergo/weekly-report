@@ -7,5 +7,8 @@ author: "Nelson Gonçalves"
 published: false
 ---
 
-* 
+* Imagoteca consulting: ideas, tech research, recommendations and diagrams
+* 360º cajc
+* Zotero maintenance
+* software support
 
