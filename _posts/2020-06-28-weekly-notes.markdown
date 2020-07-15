@@ -9,3 +9,5 @@ published: true
 
  
 * Nerdlab meeting
+* heritage chart
+* tech support
