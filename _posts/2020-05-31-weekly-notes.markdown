@@ -9,3 +9,6 @@ published: true
 
 
 * Nerdlab meeting
+* photogrammetry
+* tech support
+* heritage chart
