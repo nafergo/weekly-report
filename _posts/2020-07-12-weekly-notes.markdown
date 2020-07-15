@@ -7,4 +7,6 @@ author: "Nelson Gonçalves"
 published: false
 ---
 
-* 
+* Support Online Workshop: webmapping
+* Online Workshop: webmapping (2nd session)
+* PAV website
