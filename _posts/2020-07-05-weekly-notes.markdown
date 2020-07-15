@@ -11,3 +11,4 @@ published: true
 * Preparing Online Workshop: Webmapping
 * Online Workshop: webmapping (1st session)
 * videoconf for NERDlab projects collaboration (MPitt)
+* jc2020 team meeting
