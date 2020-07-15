@@ -10,3 +10,4 @@ published: true
 * Support Online Workshop: webmapping
 * Online Workshop: webmapping (2nd session)
 * PAV website
+* nerdlab bera project meeting
