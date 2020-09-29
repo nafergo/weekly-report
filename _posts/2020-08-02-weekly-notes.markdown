@@ -4,7 +4,9 @@ title:  "Week 27 july - 02 august 2020"
 date:   2020-08-02 08:43:59
 categories: ["08-2020"]
 author: "Nelson Gonçalves"
-published: false
+published: true
 ---
 
-* 
+* EPA meeting
+* NERDlab JC2020 meeting
+* EPA supervising
