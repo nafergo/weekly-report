@@ -9,6 +9,6 @@ published: false
 
 * pav website
 * admin stuff
-* photogrammetry
+* JC2020 meeting
 * tech support
-* heritage chart
+* pav heritage db
