@@ -11,3 +11,4 @@ published: true
 * JC2020 interface dev
 * EPA supervising
 * website dev
+* field trip: collect GPS, photos

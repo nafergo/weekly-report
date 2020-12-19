@@ -8,6 +8,6 @@ published: true
 ---
 
 * NERDlab meeting
-* JC2020 meetiong
+* JC2020 meeting
 * website dev
 * tech support (movie session, webinar, etc.)

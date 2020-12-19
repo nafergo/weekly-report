@@ -8,4 +8,5 @@ published: true
 ---
 
 * mostly website dev
-
+* tech support
+* AR

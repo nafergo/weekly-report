@@ -7,6 +7,7 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* preparing online woorkshop
+* preparing online workshop
 * pav website design
 * heritage chart
+* field trip: collect GPS, photos

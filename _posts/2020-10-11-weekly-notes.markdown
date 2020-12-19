@@ -7,4 +7,7 @@ author: "Nelson Gonçalves"
 published: false
 ---
 
-* 
+* NERDlab 2d image workshop sessions
+* tech support
+* website dev
+* AR

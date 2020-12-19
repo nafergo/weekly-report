@@ -9,3 +9,4 @@ published: true
 
 * website dev (mostly responsive stuff)
 * NERDlab workshop materials
+* NERDlab 2d image workshop session

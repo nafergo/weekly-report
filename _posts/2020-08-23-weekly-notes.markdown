@@ -10,3 +10,4 @@ published: true
 * Archaeofoss workshop: online session, learning support, teaching materials.
 * Software dev: localization, customization - for workshop
 * website
+* field trip: collect GPS, photos
