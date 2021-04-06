@@ -7,4 +7,9 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-*aa
+
+* photogrammetry: glyptography, stone marks
+* website bug hunting and fixing
+* Tech support
+
+
