@@ -8,7 +8,7 @@
 # Site settings
 title: "nafergo's weekly report"
 email: nafergo@gmail.com
-description: "Weekly log of nafergo's work for PAV"
+description: "Weekly log of nafergo's work for [PAV](https://www.poloarqueviseu.pt/) (Polo Arqueológico de Viseu, portuguese for Viseu Archaeology Centre)"
 baseurl: "/weekly-report" # the subpath of your site, e.g. /blog
 url: "https://nafergo.github.io" # the base hostname & protocol for your site
 twitter_username: nafergo
