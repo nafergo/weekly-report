@@ -7,7 +7,6 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* Admin stuff
-* project management: planning work, Asana reorganizing
-* minor edits to this log
-
+* Admin stuff: mails and documents, certificates.
+* project management: planning work, Asana reorganizing, minor edits to this log
+* research and learning: studying new workflows for refinements (photogrammetry) and new stuff (drone, arches)
