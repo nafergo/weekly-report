@@ -8,5 +8,5 @@ published: true
 ---
 
 * Project management: planning future work
-* 
+* minor edits to this log
 
