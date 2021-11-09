@@ -4,8 +4,9 @@ title:  "Week 12 july - 18 july 2021"
 date:   2021-07-18 08:43:59
 categories: ["07-2021"]
 author: "Nelson Gonçalves"
-published: false
+published: true
 ---
 
-*
-
+* Started working on umap: Megalitismo de Viseu
+* website dev
+* Field trips: photo and gps
