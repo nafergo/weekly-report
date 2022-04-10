@@ -7,5 +7,5 @@ author: "Nelson Gonçalves"
 published: false
 ---
 
-*
+* NERDLab: Octagon 3D - planning session
 
