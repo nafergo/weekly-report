@@ -8,4 +8,4 @@ published: true
 ---
 
 * NERDLab: Octagon 3D - planning session
-
+* website dev: accessibility improvements (validation tool https://accessmonitor.acessibilidade.gov.pt/)
