@@ -8,3 +8,6 @@ published: true
 ---
 
 * Open Heritage: Introdução à imagem 3D
+* project management: planning work, Asana reorganizing
+* research and learning
+* photogrammetry: pedralta
