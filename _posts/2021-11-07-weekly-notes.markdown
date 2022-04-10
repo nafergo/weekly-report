@@ -8,5 +8,6 @@ published: true
 ---
 
 * Open Heritage: Introdução à imagem 3D
-* website dev
-
+* website updates
+* Local museum visit (Tondela)
+* PAV360 - several updates on megalitismo set (7 visits): gyro/mobile support, photo gallery, text, etc.
