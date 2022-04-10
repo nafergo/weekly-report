@@ -7,5 +7,7 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-*
-
+* website updating
+* Heritage Conference presentation: Aveiro Jornadas de Património Local
+* Worked on umap: Megalitismo de Viseu
+* photogrammetry: pedralta
