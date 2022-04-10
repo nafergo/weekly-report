@@ -7,5 +7,8 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-*
+* website dev: accessibility improvements (validation tool https://accessmonitor.acessibilidade.gov.pt/)
+* PAV360 - several updates on megalitismo set (7 visits): gyro/mobile support, photo gallery, text, etc.
+* NERDLab: Octagon 3D - planning session (Cava de Viriato)
+* Field trips: photo and gps (Ribafeita, Boa Aldeia)
 
