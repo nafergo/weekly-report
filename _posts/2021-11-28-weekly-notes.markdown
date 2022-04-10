@@ -7,5 +7,8 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-*
+* PAV online accounts maintenance
+* Field trips: photo and gps (Pedralta)
+* Worked on umap: Megalitismo de Viseu
+* photogrammetry: pedralta
 
