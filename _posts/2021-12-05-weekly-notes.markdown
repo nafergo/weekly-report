@@ -7,5 +7,10 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-*
+* website updating
+* Field trips: photo and gps (Jardins de Viseu)
+* Worked on umap: Megalitismo de Viseu
+* PAV360 - several updates on megalitismo set (7 visits): gyro/mobile support, photo gallery, text, etc.
+
+
 
