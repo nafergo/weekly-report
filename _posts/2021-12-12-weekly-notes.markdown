@@ -7,5 +7,9 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-*
+* project management: planning work, Asana reorganizing
+* research and learning
+* Field trips: photo and gps (Fojo 1 e Fojo 2)
+* PAV online accounts maintenance
+
 
