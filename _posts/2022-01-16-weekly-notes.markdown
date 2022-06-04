@@ -7,5 +7,6 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* 
-* 
+* website dev
+* photogrammetry - data capture (CAJC)
+* photogrammetry - data capture (field)
