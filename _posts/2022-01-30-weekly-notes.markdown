@@ -7,5 +7,6 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* 
-* 
+* photogrammetry - data capture (CAJC)
+* photogrammetry - model processing and post
+
