@@ -9,4 +9,4 @@ published: true
 
 * Open Heritage: Webmapping
 * webmapping updates: megalitismo
-
+* photogrammetry - model processing and post + data capture
