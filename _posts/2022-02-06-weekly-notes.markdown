@@ -8,4 +8,5 @@ published: true
 ---
 
 * Open Heritage: Webmapping
-* 
+* webmapping updates: megalitismo
+
