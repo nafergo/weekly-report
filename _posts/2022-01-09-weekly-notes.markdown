@@ -7,5 +7,6 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* 
-* 
+* NERDLab: Octagon 3D - planning meeting
+* software support
+* field trip: collect GPS, photos
