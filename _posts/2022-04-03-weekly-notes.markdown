@@ -8,5 +8,6 @@ published: true
 ---
 
 * NERDLab: Octagon 3D - session at ESV
-* 
+* photogrammetry: fixing and optimizing
+* project management and admin
 
