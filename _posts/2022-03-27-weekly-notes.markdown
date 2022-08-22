@@ -7,6 +7,6 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* 
-* 
+* photogrammetry: fixing and optimizing
+* website dev
 
