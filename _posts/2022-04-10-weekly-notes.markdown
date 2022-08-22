@@ -7,6 +7,7 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* 
-* 
+* NERDLab: Octagon 3D - technical visit to Cava do Viriato
+* photogrammetry: data capture, processing
+* 3d map updates
 
