@@ -7,6 +7,7 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* NERDLab: Octagon 3D - group visit to Cava de Viriato
-* 
+* photogrammetry: data capture, processing
+* photogrammetry: fixing and optimizing
+* Octagon 3D - VR dev
 
