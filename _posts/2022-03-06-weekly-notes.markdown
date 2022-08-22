@@ -8,4 +8,4 @@ published: true
 ---
 
 * Open Heritage: Fotogrametria
-* 
+* photogrammetry: fixing and optimizing
