@@ -7,6 +7,6 @@ author: "Nelson Gonçalves"
 published: false
 ---
 
-* 
+* NERDLab: Octagon 3D - group visit to Cava de Viriato
 * 
 
