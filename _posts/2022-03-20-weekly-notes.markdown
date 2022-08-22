@@ -7,5 +7,6 @@ author: "Nelson Gonçalves"
 published: true
 ---
 
-* 
-* 
+* photogrammetry: data capture, processing
+* photogrammetry: fixing and optimizing
+* website dev
