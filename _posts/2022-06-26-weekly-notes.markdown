@@ -8,8 +8,8 @@ published: false
 ---
 
 
-* photogrammetry: data capture, processing
-* website dev
+* 3D modeling and animation
+
 
 
 
