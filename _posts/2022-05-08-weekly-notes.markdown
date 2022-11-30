@@ -10,4 +10,4 @@ published: true
 
 * website updating
 * 3d modeling and animation
-
+* OpenHeritage workshop: Archaeofoss - online session, learning support, teaching materials.
