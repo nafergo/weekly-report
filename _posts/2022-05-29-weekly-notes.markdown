@@ -4,11 +4,11 @@ title:  "Week 23 may - 29 may 2022"
 date:   2022-05-29 08:43:59
 categories: ["05-2022"]
 author: "Nelson Gonçalves"
-published: false
+published: true
 ---
 
 
-* photogrammetry: data capture, processing
-* website dev
+* 3d modeling and animation
+* website updating
 
 
